@@ -1,0 +1,12 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+*.so 
+*.dll 
+data/ 
+.pytest_cache/ 
+.vscode/ 
+InstallationLog.txt 
+storage/__pycache__/ 
+ingestion/__pycache__/ 
+tests/__pycache__/ 
